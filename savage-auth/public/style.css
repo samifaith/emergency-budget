@@ -1,0 +1,33 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+
+.fa {
+  color: red;
+  margin-right: 10px;
+}
+
+img{
+  height: 200px;
+}
+
+.btn {
+  background: red;
+  color: white;
+  border: red;
+  border-radius: 3px;
+}
+
+.row {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+li {
+font-size: 2rem;
+text-decoration: underline;
+list-style: none;
+}
